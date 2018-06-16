@@ -4,7 +4,7 @@ A **assinatura** é o jeito de identificar um método de forma única. Em lingua
 
 ## Construtor
 
-O construtor é definido como um método cujo nome deve ser o mesmo nome da **classe** e sem indicação do tipo de retorno nem mesmo **void**. O construtor é unicamente invocado no momento da criação do objeto através do operador **new**.
+O **construtor** é definido como um método cujo nome deve ser o mesmo nome da **classe** e sem indicação do tipo de retorno nem mesmo **void**. O construtor é unicamente invocado no momento da criação do objeto através do operador **new**.
 
 ## Encapsulamento
 
@@ -12,7 +12,7 @@ O construtor é definido como um método cujo nome deve ser o mesmo nome da **cl
 
 ## Escopo de classe
 
-Escopo refere-se à vida e acessibilidade de uma variável. Quão grande é o alcance depende de onde uma variável é declarada.
+
 
 ## Escopo de objeto
 
@@ -41,7 +41,7 @@ A **palavra reservada final** (minusculo, java e case sensitive) serve para dize
 
 ## Palavra reservada instanciof
 
-Determina se um objeto é a instancia de uma classe, superclasse ou interface.
+**Instanceof**: Determina se um objeto é a instancia de uma classe, superclasse ou interface.
 
 ## Palavra reservada new
 
