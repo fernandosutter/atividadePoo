@@ -12,7 +12,18 @@ O **construtor** é definido como um método cujo nome deve ser o mesmo nome da 
 
 ## Escopo de classe
 
+Refere-se aos limites de uma variável.
 
+Ex:
+```
+int a = 10;  
+for (int i = 0; i < 10; i++)   
+{  
+   System.out.println("Olá " + i + " " + a);   //ok, a existe dentro do for.
+}  
+System.out.println(a);  
+System.out.println(i);  //Ops, i não existe aqui, só dentro do for.
+```
 
 ## Escopo de objeto
 
@@ -46,6 +57,11 @@ A **palavra reservada final** (minusculo, java e case sensitive) serve para dize
 ## Palavra reservada new
 
  **New**: Usada para instanciar um objeto.
+ 
+ Ex:
+ ```
+ TextField nome = new TextField();
+ ```
 
 ## Palavra reservada public/private
 
