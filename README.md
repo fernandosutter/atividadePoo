@@ -27,7 +27,7 @@ System.out.println(i);  //Ops, i não existe aqui, só dentro do for.
 
 ## Escopo de objeto
 
-
+É o **limite que um objeto** pode manipular, enxergar, visualizar, ou acessar os seus atributos ou métodos dando ou não permissão.
 
 ## Getters/Setters
 
